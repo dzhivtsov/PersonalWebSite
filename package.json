@@ -9,7 +9,7 @@
   "author": "Denis Zhivtsov",
   "license": "ISC",
   "devDependencies": {
-    "bower": "^1.6.5",    
+    "bower": "^1.6.5",
     "del": "^2.0.2",
     "gulp": "~3.9.0",
     "gulp-angular-templates": "0.0.2",
